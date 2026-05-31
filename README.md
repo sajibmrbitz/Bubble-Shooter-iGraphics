@@ -5,7 +5,7 @@
 </p>
 
 ## Overview
-This project is a classic arcade-style Bubble Shooter game. It was developed to demonstrate core programming concepts, physics, and graphics movement logic using **C** and the **iGraphics** framework (a wrapper built on top of OpenGL used in BUET lab works). 
+This project is a classic arcade-style Bubble Shooter game. It was developed to demonstrate core programming concepts, physics, and graphics movement logic using **C** and the **iGraphics** framework (a wrapper built on top of OpenGL used in BUET lab works). Don't get confused by the .cpp extension as .cpp supports C as well.
 
 ## Features
 - Classic bubble shooting mechanics to simulate shooting, exchange and popping of bubbles, saving sessions using files, etc.
