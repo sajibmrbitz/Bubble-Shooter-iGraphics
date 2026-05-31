@@ -1,6 +1,10 @@
 <h1 align="center">🎮 Bubble Shooter</h1>
 
 <p align="center">
+  <img src="BS.gif" alt="Bubble Shooter Gameplay" width="600">
+</p>
+
+<p align="center">
   <i>A remake of the legendary "BUBBLE SHOOTER" game completely in C language using the iGraphics framework.</i>
 </p>
 
