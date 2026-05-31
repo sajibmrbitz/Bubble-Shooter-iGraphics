@@ -30,5 +30,5 @@ If you want to explore or edit the source code:
 3. Build and run the project(you can use runner bat )
 
 <p align="center">
-  <b>Developed & Maintained by <a href="https://github.com/sajibmrbitz">Mahmodur Rahman Sajib</a> 
+  <b>Developed & Maintained by <a href="https://github.com/sajibmrbitz">Mahmodur Rahman Sajib</a> &
     <a href="https://github.com/Ifat-monday-128">Mahtab Hasan Ifat</a></b><br>
